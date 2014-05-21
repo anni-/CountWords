@@ -1,5 +1,4 @@
-north-american-ninja
+Count words
 ====================
 
-blablabla
-bla.
+Count how often words occur in a text file. Add the Textfile in the python.py. 
